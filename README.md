@@ -12,7 +12,7 @@
 
 ## वेबसाइट का URL
 
-https://royalnews.github.io
+https://panakj0988.github.io
 
 ---
 
