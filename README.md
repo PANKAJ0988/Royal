@@ -12,7 +12,7 @@
 
 ## वेबसाइट का URL
 
-https://yourusername.github.io
+https://royalnews.github.io
 
 ---
 
